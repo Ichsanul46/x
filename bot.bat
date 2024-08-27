@@ -8,7 +8,6 @@ pause
 rem Panggil fungsi recursiveDelete dengan rootDir sebagai parameter
 call :recursiveDelete "%rootDir%"
 
-echo Selesai!
 pause
 exit /b
 
